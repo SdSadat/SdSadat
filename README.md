@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>
-           hey there
+           Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
@@ -21,6 +21,14 @@
  
  
   </h1>
+
+---
+### 👨‍💻: About Me : 
+#### I'm a passionate programmer on a quest to explore the vast world of coding, continually seeking the best path to harness my skills.
+#### - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sadat-ali-336101264/)
+
+
+
 
 
 
