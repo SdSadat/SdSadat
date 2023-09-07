@@ -7,13 +7,13 @@
 </div>
  <h1>
    
-   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="200px"/>
+   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="167px"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200px"/>
+    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="167px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="200px"/>
+   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="167px"/>
  
     
   
