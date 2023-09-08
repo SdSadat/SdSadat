@@ -27,8 +27,6 @@
 
 
 
-
-
   <h2>Github Stats and Activity🎯</h2>
   <div id="header" align="center">
 
