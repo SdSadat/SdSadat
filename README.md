@@ -6,16 +6,25 @@
  
 </div>
  <h1>    
-             <img src="https://media.giphy.com/media/m9YZVin3cgIlPQzE2A/giphy.gif" width="250px" style="display: inline-block; margin-bottom: 40px;" />
+
+  <div id="header" align="center">
+           
    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250px" style="display: inline-block; margin-left: 40px;" />
-               <img src="https://media.giphy.com/media/t9AygAb8j5LHi/giphy.gif" width="250px" style="display: inline-block; margin-left: 80px; margin-bottom: 20px;" />
+              
   
+ </div>
+
+ 
+  </h1>
+ <h1>    <div id="header" align="center">
+               <img src="https://media.giphy.com/media/t9AygAb8j5LHi/giphy.gif" width="250px" style="display: inline-block; margin-bottom: 20px;" />
+ </div>
  
 
  
   </h1>
 
----
+
 ### 👨‍💻: About Me : 
 #### I'm a passionate programmer on a quest to explore the vast world of coding, continually seeking the best path to harness my skills.
 #### - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sadat-ali-336101264/)
