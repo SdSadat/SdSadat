@@ -16,13 +16,7 @@
 
  
   </h1>
- <h1>    <div id="header" align="center">
-               <img src="https://media.giphy.com/media/t9AygAb8j5LHi/giphy.gif" width="250px" style="display: inline-block; margin-bottom: 20px;" />
- </div>
- 
 
- 
-  </h1>
 
 
 ### 👨‍💻: About Me : 
