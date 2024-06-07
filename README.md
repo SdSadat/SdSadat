@@ -32,19 +32,19 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/Sadat3332/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/SdSadat/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/Sadat3332/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sadat3332's streak" src="https://streak-stats.demolab.com/?user=Sadat3332&theme=violet-dark&card&hide_border=true"/>
+    <a href="https://github.com/SdSadat/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SdSadat's streak" src="https://streak-stats.demolab.com/?user=SdSadat&theme=violet-dark&card&hide_border=true"/>
     </a>
     </div>
    
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sadat3332's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sadat3332&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SdSadat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SdSadat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 <!--
-**Sadat3332/Sadat3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SdSadat/SdSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
