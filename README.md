@@ -20,7 +20,7 @@
 
 
 ### 👨‍💻: About Me : 
-#### I'm a passionate programmer on a quest to explore the vast world of coding, continually seeking the best path to harness my skills.
+#### Loading...
 #### - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sadat-ali-336101264/)
 
 
